@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --biru: #8fc1ff;
+  --biruglp: #14116e;
+  --latarblkg: #f3f3fd;
+  --listbiru: #2d77d3;
+  --listabu: #616161;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  
+}
+
+.wrapper .wrap-logo-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 120px;
+}
+
+.wrapper .wrap-logo-title .logo {
+  /* float: left; */
+  width: 120px;
+  margin-right: 0;
+}
+
+.wrapper .title-log {
+  width: 70%;
+  color: var(--biruglp);
+  font-weight: 600;
+  font-size: xx-large;
+  text-align: end;
+}
+
+.wrapper .desc {
+  width: 100%;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+
+.signin-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper {
+  width: 50%;
+  background-color: white;
+  color: black;
+  padding: 80px;
+  max-height: min-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapper-img {
+  width: 50%;
+  background-color: var(--latarblkg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-log {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  transform: scaleX(-1);
+}
+
+.wrapper h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.wrapper .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 0;
+  color: var(--listabu);
+  font-size: small;
+}
+
+.input-box input {
+  width: calc(100% - 0px);
+  height: 100%;
+  border: none;
+  outline: none;
+  border: 1px solid var(--listabu);
+  border-radius: 8px;
+  font-size: 14px;
+  padding: 20px 20px 20px 40px;
+}
+
+.input-box input::placeholder {
+  color: black;
+}
+
+.input-box i {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: var(--listabu);
+}
+
+.wrapper .remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin: -10px 0 10px;
+  padding: 0;
+}
+
+.remember-forgot label input {
+  accent-color: #fff;
+  margin-right: 2px;
+  /* margin: 0 0; */
+  padding: 0 10px;
+  height: 10px;
+}
+
+.remember-forgot a {
+  text-decoration: none;
+}
+
+.remember-forgot a:hover {
+  text-decoration: underline;
+}
+
+.wrapper .btn {
+  width: 100%;
+  height: 45px;
+  background: var(--biruglp);
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  /* margin: 0 10px; */
+  /* margin-left: 10px; */
+  /* margin-right: -10px; */
+  padding: 0 10px;
+}
+
+.wrapper .register-link {
+  font-size: 12px;
+  text-align: center;
+  margin: 20px 0 15px;
+}
+
+.register-link p a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.register-link p a:hover {
+  text-decoration: underline;
+}
+
+.register-link a {
+  color: var(--biru);
+}

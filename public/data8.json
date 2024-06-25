@@ -1,0 +1,200 @@
+[
+    {
+        "No": 1,
+        "todolist": "Berlatih mindfulness.\nMelakukan aromaterapi.",
+        "Activity": "Berjalan di taman.\nLatihan postur tubuh.",
+        "Consume": "Biji chia.\nBiji rami.\nAlpukat."
+    },
+    {
+        "No": 2,
+        "todolist": "Menyusun daftar nama bayi.\nMempersiapkan kamar bayi.",
+        "Activity": "Latihan penguatan punggung.\nLatihan penguatan panggul.",
+        "Consume": "Yogurt tanpa gula.\nSusu rendah lemak."
+    },
+    {
+        "No": 3,
+        "todolist": "Mengikuti grup dukungan kehamilan.Meditasi harian.\nMendengarkan musik yang menenangkan.",
+        "Activity": "Latihan penguatan kaki.\nLatihan penguatan tangan.",
+        "Consume": "Keju rendah lemak.\nJus jeruk segar."
+    },
+    {
+        "No": 4,
+        "todolist": "Membaca buku.\nMenonton film favorit.",
+        "Activity": "Latihan penguatan otot inti.\nStretching sebelum tidur.",
+        "Consume": "Oatmeal.\nNasi merah."
+    },
+    {
+        "No": 5,
+        "todolist": "Yoga\n",
+        "Activity": "Lakukan juga yoga dan pilates ringan untuk membantu meredakan ketidaknyamanan",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 6,
+        "todolist": "menjaga posisi duduk",
+        "Activity": "usahakan untuk selalu Senam kehamilan.\nLatihan kegel.\nMembuat kerajinan tangan dengan punggung tegak.",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 7,
+        "todolist": "Tidur yg cukup\nminum vitamin",
+        "Activity": "sikat gigi dan bersihkan gigi dengan benang dental untuk mencegah karang gigi",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 8,
+        "todolist": "menjaga posisi duduk\nmelakukan perawatan gigi",
+        "Activity": "Senam kehamilan.\nLatihan kegel.\nMembuat kerajinan tangan.",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 9,
+        "todolist": "Menulis jurnal kehamilan.\nMenyusun album foto.\nMenjahit atau merajut.",
+        "Activity": "Yoga prenatal.\nRenang.",
+        "Consume": "Susu rendah lemak.\nKeju rendah lemak."
+    },
+    {
+        "No": 10,
+        "todolist": "Bermain puzzle.\nBermain game ringan.\nMengikuti kelas memasak.",
+        "Activity": "Pilates khusus untuk ibu hamil.\nPeregangan ringan setiap pagi.",
+        "Consume": "Jus jeruk segar.\nOatmeal.\nNasi merah."
+    },
+    {
+        "No": 11,
+        "todolist": "Melakukan spa atau pijat kehamilan.\nMandi air hangat.\nMengikuti kursus musik.",
+        "Activity": "Latihan kekuatan ringan dengan dumbbell.\nBerolahraga di air (aqua aerobics).",
+        "Consume": "Pasta gandum utuh.\nApel.\nPisang."
+    },
+    {
+        "No": 12,
+        "todolist": "Tidur yg cukup\nminum vitamin",
+        "Activity": "sikat gigi dan bersihkan gigi dengan benang dental untuk mencegah karang gigi",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 13,
+        "todolist": "Membaca buku tentang kehamilan.\nMenghubungi teman atau keluarga untuk dukungan.\nMengikuti kelas prenatal online.",
+        "Activity": "Jalan pagi selama 30 menit.\nLatihan pernapasan.\nYoga ringan untuk ibu hamil.",
+        "Consume": "Konsumsi lemak sehat dari alpukat, kacang-kacangan, minyak zaitun, dan ikan berlemak seperti salmon."
+    },
+    {
+        "No": 14,
+        "todolist": "jaga kesehatan baik melalui kegiatan fisik yang tepat maupun konsumsi makanan yang bergizi.",
+        "Activity": "Berjalan kaki\nSenam hamil\nYoga prenatal\n",
+        "Consume": "Sumber protein seperti daging tanpa lemak, ayam, ikan, telur, kacang-kacangan, dan produk susu rendah lemak penting untuk pertumbuhan janin."
+    },
+    {
+        "No": 15,
+        "todolist": "Membuat janji dengan ahli laktasi.\nMenulis daftar pertanyaan untuk dokter.\nMembuat rencana kegiatan untuk bulan berikutnya.",
+        "Activity": "Yoga prenatal.\nMeditasi visualisasi.\nMembaca buku motivasi.",
+        "Consume": "Sarapan dengan roti gandum dan selai kacang.\nMakan siang dengan sup sayuran.\nCamilan dengan keju dan buah."
+    },
+    {
+        "No": 16,
+        "todolist": "Menyusun jadwal tidur yang teratur.\nMembuat rencana makan mingguan.\nMenulis jurnal kehamilan.",
+        "Activity": "Jalan pagi selama 30 menit.\nLatihan pernapasan.\nYoga ringan untuk ibu hamil.",
+        "Consume": "Sarapan dengan oatmeal dan buah segar.\nMakan siang dengan salad ayam.\nMinum susu khusus ibu hamil sebelum tidur."
+    },
+    {
+        "No": 17,
+        "todolist": "Cek tekanan darah di rumah.\nBelanja makanan sehat.\nMenghubungi teman atau keluarga untuk dukungan emosional.",
+        "Activity": "Senam kehamilan.\nMeditasi selama 15 menit.\nMembaca artikel tentang perkembangan janin.",
+        "Consume": "Sarapan dengan smoothie hijau.\nMakan siang dengan ikan panggang dan sayuran.\nCamilan sore dengan kacang-kacangan dan buah."
+    },
+    {
+        "No": 18,
+        "todolist": "Yoga\n",
+        "Activity": "Lakukan juga yoga dan pilates ringan untuk membantu meredakan ketidaknyamanan",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 19,
+        "todolist": "menjaga posisi duduk",
+        "Activity": "usahakan untuk selalu Senam kehamilan.\nLatihan kegel.\nMembuat kerajinan tangan dengan punggung tegak.",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 20,
+        "todolist": "Tidur yg cukup\nminum vitamin",
+        "Activity": "sikat gigi dan bersihkan gigi dengan benang dental untuk mencegah karang gigi",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 21,
+        "todolist": "Membuat rencana keuangan.\nMembaca artikel tentang kehamilan.\nMenulis daftar pertanyaan untuk dokter.",
+        "Activity": "Berjalan di taman.\nLatihan peregangan.\nMembaca buku motivasi.",
+        "Consume": "Sarapan dengan yogurt dan granola.\nMakan siang dengan salad sayuran.\nMinum teh herbal."
+    },
+    {
+        "No": 22,
+        "todolist": "Menyusun jadwal tidur yang teratur.\nMembuat rencana makan mingguan.\nMengatur janji prenatal.",
+        "Activity": "Yoga prenatal.\nLatihan pernapasan.\nMendengarkan musik klasik.",
+        "Consume": "Sarapan dengan roti gandum dan telur.\nMakan siang dengan sup sayuran.\nCamilan dengan keju dan buah."
+    },
+    {
+        "No": 23,
+        "todolist": "Meninjau rencana kelahiran.\nMembuat playlist musik untuk kelahiran.\nMenulis surat untuk bayi.",
+        "Activity": "Peregangan ringan.\nMeditasi pernapasan.\nMembaca buku motivasi.",
+        "Consume": "Sarapan dengan oatmeal dan buah.\nMakan siang dengan ikan panggang.\nMinum jus jeruk segar."
+    },
+    {
+        "No": 24,
+        "todolist": "Kunjungan prenatal ke dokter.\nMenulis jurnal kehamilan.\nMengatur jadwal tidur yang teratur.",
+        "Activity": "Jalan pagi selama 30 menit.\nLatihan pernapasan.\nYoga ringan untuk ibu hamil.",
+        "Consume": "Sarapan dengan oatmeal dan buah segar.\nMakan siang dengan salad ayam.\nMinum susu khusus ibu hamil sebelum tidur."
+    },
+    {
+        "No": 25,
+        "todolist": "Cek tekanan darah di rumah.\nBelanja makanan sehat.\nMenghubungi teman atau keluarga untuk dukungan emosional.",
+        "Activity": "Senam kehamilan.\nMeditasi selama 15 menit.\nMembaca artikel tentang perkembangan janin.",
+        "Consume": "Sarapan dengan smoothie hijau.\nMakan siang dengan ikan panggang dan sayuran.\nCamilan sore dengan kacang-kacangan dan buah."
+    },
+    {
+        "No": 26,
+        "todolist": "Menulis jurnal kehamilan.\nMenyusun daftar belanja perlengkapan bayi.\nMendengarkan musik yang menenangkan.",
+        "Activity": "Jalan sore selama 30 menit.\nLatihan kegel.\nMembuat kerajinan tangan atau hobi ringan.",
+        "Consume": "Sarapan dengan roti gandum dan telur.\nMakan siang dengan sup sayuran.\nMinum jus jeruk segar."
+    },
+    {
+        "No": 27,
+        "todolist": "Catat perkembangan kehamilan di jurnal.\nKonsultasi dengan dokter kandungan.\nTidur siang selama 30 menit.",
+        "Activity": "Lakukan juga yoga dan pilates ringan untuk membantu meredakan ketidaknyamanan",
+        "Consume": "konsumsi makanan sehat\nmengkonsumsi suplemen dan vitamin dari dokter"
+    },
+    {
+        "No": 28,
+        "todolist": "Menulis jurnal kehamilan.\nMenyusun album foto.\nMenjahit atau merajut.",
+        "Activity": "Latihan pernapasan.\nBersepeda statis.\nLatihan menggunakan gym ball.\nSenam Kegel.",
+        "Consume": ""
+    },
+    {
+        "No": "Kentang.",
+        "todolist": "",
+        "Activity": "",
+        "Consume": ""
+    },
+    {
+        "No": "Kubis.",
+        "todolist": "",
+        "Activity": "",
+        "Consume": ""
+    },
+    {
+        "No": "",
+        "todolist": "",
+        "Activity": "",
+        "Consume": ""
+    },
+    {
+        "No": 29,
+        "todolist": "Meditasi harian.\nMendengarkan musik yang menenangkan.\nMembaca buku",
+        "Activity": "Berjalan kaki setiap hari.\nSenam hamil.",
+        "Consume": "Buncis. \nIkan sarden."
+    },
+    {
+        "No": 30,
+        "todolist": "Menonton film favorit.\nMenggambar atau melukis.\nBerjalan di alam.",
+        "Activity": "Yoga prenatal.\nRenang.",
+        "Consume": "Kembang kol.\nIkan sarden."
+    }
+]
