@@ -159,7 +159,7 @@ const DetailCommunity = () => {
                                             <p className="pl-3">{commentData.content}</p>
                                         </div>
                                     </div>
-                                    {commentData.user_id === userId && <button className="bg-[#ED4141] h-10 text-white py-1 px-3 rounded-xl" onClick={() => handleDeleteComment(commentData.id)}>Hapus</button>}
+                                    {commentData.user_id === userId && <button className="bg-[#ED4141] h-10 text-white py-1 px-3 rounded-xl" onClick={handleDeleteComment(commentData.id)}>Hapus</button>}
                                 </div>
                                 <hr />
                                 </div>
