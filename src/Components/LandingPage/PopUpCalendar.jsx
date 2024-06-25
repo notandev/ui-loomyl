@@ -12,16 +12,16 @@ const PopUpCalendar = ({ show, onClose, date, data }) => {
                     data.map(item => (
                         <div key={item.No}>
                             <div className="w-[60%] py-5">
-                                <p className="text-xl ">To Do</p>
+                                <p className="text-xl ">Kegiatan</p>
                                 <p>{item.todolist}</p>
                             </div>
                             <div className="grid grid-cols-2 gap-10">
                                 <div className="col-span-1">
-                                    <p className="text-xl ">Activity</p>
+                                    <p className="text-xl ">Aktifitas</p>
                                     <p className="">{item.Activity}</p>
                                 </div>
                                 <div className="col-span-1">
-                                    <p className="text-xl ">Consume</p>
+                                    <p className="text-xl ">Konsumsi</p>
                                     <p className="">{item.Consume}</p>
                                 </div>
                             </div>
