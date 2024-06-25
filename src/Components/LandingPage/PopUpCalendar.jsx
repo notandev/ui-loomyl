@@ -7,7 +7,7 @@ const PopUpCalendar = ({ show, onClose, date, data }) => {
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center px-20" onClick={onClose}>
             <div className="bg-white rounded-xl pt-20 pb-10 px-20 relative">
                 <img src="/svg/x.svg" alt="x" className="hover:cursor-pointer absolute top-0 right-0 p-8" onClick={onClose} />
-                <h2>Detail for Date: {date}</h2>
+                <h2>Detail untuk tanggal: {date}</h2>
                 {data && data.length > 0 ? (
                     data.map(item => (
                         <div key={item.No}>
@@ -28,7 +28,7 @@ const PopUpCalendar = ({ show, onClose, date, data }) => {
                         </div>
                     ))
                 ) : (
-                    <p>No data available for this date.</p>
+                    <p>Data Kosong pada Tanggal ini.</p>
                 )}
             </div>
         </div>
