@@ -271,7 +271,7 @@ function LandingPage() {
                   <div className="grid grid-cols-3 items-start">
                     <img src={thumb} alt="Thumbnail" className="col-span-1 w-[250px] md:w-full h-fit md:h-full" />
                     <div className="col-span-2 text-left md:px-5 grid place-content-center gap-y-2">
-                      <a href="https://herminahospitals.com/id/articles/7-tips-mudah-ibu-hamil-untuk-kehamilan-yang-sehat-dan-nyaman-2bb8cd6a-3f0f-416f-a27a-481fc4e41242.html" className="font-bold underline text-sm md:text-3xl">
+                      <a href="https://herminahospitals.com/id/articles/7-tips-mudah-ibu-hamil-untuk-kehamilan-yang-sehat-dan-nyaman-2bb8cd6a-3f0f-416f-a27a-481fc4e41242.html" className="text-sm md:text-3xl hover:text-blue-600">
                         7 Tips Mudah Ibu Hamil Untuk Kehamilan Yang Sehat dan Nyaman.
                       </a>
                       <p className="text-xs md:text-base">
@@ -306,7 +306,7 @@ function LandingPage() {
                   <div className="grid grid-cols-3 items-start">
                     <img src={artikel4} alt="Thumbnail" className="w-[250px] md:w-full h-fit md:h-full" />
                     <div className="col-span-2 text-left md:px-5 grid place-content-center gap-y-2">
-                      <a href="https://www.alodokter.com/ibu-hamil-jangan-marah-marah-terus-ini-efeknya-pada-bayi" className="font-bold underline text-sm md:text-3xl">
+                      <a href="https://www.alodokter.com/ibu-hamil-jangan-marah-marah-terus-ini-efeknya-pada-bayi" className="text-sm md:text-3xl hover:text-blue-600">
                         Ibu Hamil Sering Marah? Ini Efek Sampingnya Bagi Janin dan Cara...
                       </a>
                       <p className="text-xs md:text-base">
